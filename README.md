@@ -1,1 +1,3 @@
-# plazma-tool.github.io
+# Plazma Shader Tool
+
+https://plazma-tool.github.io
